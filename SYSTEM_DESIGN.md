@@ -6,7 +6,7 @@
 
 This repository contains the high-level system design and architectural overview for **Riskwatch**, a multi-language fintech platform. The project is currently under active development.
 
-## 🚀 Project Vision
+## Project Vision
 
 Riskwatch is designed to provide powerful risk analytics, portfolio optimization, and scenario simulation tools for novice investors and finance students. The goal is to democratize access to institutional-grade financial modeling in an intuitive, web-based platform.
 
@@ -20,7 +20,7 @@ Riskwatch is designed to provide powerful risk analytics, portfolio optimization
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 The platform is built on a modern, polyglot microservice architecture, leveraging the best tool for each specific job to ensure performance, scalability, and maintainability.
 
@@ -36,7 +36,7 @@ The platform is built on a modern, polyglot microservice architecture, leveragin
 
 ---
 
-## 🏛️ High-Level Architecture
+## High-Level Architecture
 
 The system is designed as a set of decoupled microservices that communicate through APIs and a central message broker. This approach allows for independent development, deployment, and scaling of each component.
 
@@ -72,7 +72,7 @@ We employ a multi-database strategy to handle different types of data effectivel
 
 
 
-## 🗺️ Project Roadmap
+## Project Roadmap
 
 This project is being developed iteratively. The planned milestones are outlined below.
 
