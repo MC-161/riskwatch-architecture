@@ -64,6 +64,13 @@ We employ a multi-database strategy to handle different types of data effectivel
 * **In-Memory Store (Redis):** Powers our real-time features by serving as a high-speed cache for market data and as a Pub/Sub broker for broadcasting updates to the UI.
 
 ---
+## SYS Design Diagram
+
+<img width="7559" height="1626" alt="mermaid-ai-diagram-2025-10-07-190424" src="https://github.com/user-attachments/assets/449fbc5f-7a78-457a-b0b4-6ced9bfe4eee" />
+
+
+
+
 
 ## 🗺️ Project Roadmap
 
